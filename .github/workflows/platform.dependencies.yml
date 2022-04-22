@@ -23,7 +23,7 @@ on:
   #     - 'utilities/pipelines/dependencies/**'
 
 env:
-  location: 'WestEurope'
+  location: 'eastus2'
   defaultResourceGroupName: 'validation-rg'
   resourceGroupNameArtifacts: 'artifacts-rg'
   removeDeployment: 'false'
